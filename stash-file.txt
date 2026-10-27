@@ -1,1 +1,3 @@
 First version
+Uncommitted changes
+Continuing the previous task
